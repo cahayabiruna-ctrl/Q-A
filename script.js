@@ -90,32 +90,32 @@ document.addEventListener('DOMContentLoaded', () => {
         ],
         "Cara Kerja & Sinyal Trading": [
             { 
-                question: '3. Mengapa DV TEAM tidak bekerjasama dengan bursa lain seperti Binance atau OKX?', 
+                question: '1. Mengapa DV TEAM tidak bekerjasama dengan bursa lain seperti Binance atau OKX?', 
                 audioPath: 'audio/jawaban3.mp3',
                 narrative: 'OPALP berfokus pada inovasi dalam perdagangan kontrak opsi, dengan visi bersama...' // (Narasi lengkap)
             },
             { 
-                question: '4. Apa yang harus kita lakukan jika lima tahap perdagangan semuanya gagal?', 
+                question: '2. Apa yang harus kita lakukan jika lima tahap perdagangan semuanya gagal?', 
                 audioPath: 'audio/jawaban4.mp3',
                 narrative: 'Harap tenang, DV TEAM memiliki mekanisme perlindungan risiko yang lengkap...' // (Narasi lengkap)
             },
             { 
-                question: '5. Mengapa ketika kita transaksi dengan persentase 1% dari modal, hasilnya berbeda?', 
+                question: '3. Mengapa ketika kita transaksi dengan persentase 1% dari modal, hasilnya berbeda?', 
                 audioPath: 'audio/jawaban5.mp3',
                 narrative: 'Tingkat keuntungan bersifat dinamis dan berfluktuasi, berada di antara 85%–90%...' // (Narasi lengkap)
             },
             { 
-                question: '10. Selamat malam Profesor, apakah waktu sinyal perdagangan bisa diubah?', 
+                question: '4. Selamat malam Profesor, apakah waktu sinyal perdagangan bisa diubah?', 
                 audioPath: 'audio/jawaban10.mp3',
                 narrative: 'Sinyal pertama adalah pukul 12:10, sinyal kedua adalah pukul 20:10...' // (Narasi lengkap)
             },
             { 
-                question: '18. Jika pasar kripto turun drastis, apakah sistem DV TEAM tetap stabil?', 
+                question: '5. Jika pasar kripto turun drastis, apakah sistem DV TEAM tetap stabil?', 
                 audioPath: 'audio/jawaban18.mp3',
                 narrative: 'Ini adalah pertanyaan yang sangat bagus. Memang benar pasar kripto terkadang mengalami penurunan besar...' // (Narasi lengkap)
             },
             { 
-                question: '32. Bagaimana cara menjelaskan kerja OPALP... (binary option/judi)?!', 
+                question: '6. Bagaimana cara menjelaskan kerja OPALP... (binary option/judi)?!', 
                 audioPath: 'audio/jawaban32.mp3',
                 narrative: 'OPALP bukan sistem tebak-tebakan, tapi sistem trading kontrak opsi berbasis analisa sinyal...' // (Narasi lengkap)
             }
