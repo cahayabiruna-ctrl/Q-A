@@ -11,37 +11,37 @@ document.addEventListener('DOMContentLoaded', () => {
                 narrative: 'Legalitas dan Keamanan Dana Tim Investasi DV\n\nLegalitas Opalp Exchanges Inc\nTerdaftar secara resmi di negara bagian Colorado, AS.\nTelah memenuhi seluruh persyaratan hukum dan terdaftar dengan nomor identifikasi 20215140699.\nSertifikat Good Standing diterbitkan oleh Sekretaris Negara Bagian Colorado (Lena Griswold) pada tanggal 4 Februari 2025.\n\nSaham dan Struktur Kepemilikan\nMichael McClay tercatat sebagai pemegang saham sebanyak 50 juta lembar saham.\nSaham terdaftar dan dapat dipindahkan secara resmi melalui catatan perusahaan.\nTotal saham diterbitkan: 5.000.000.000 saham biasa.\n\nPerjanjian Kerjasama Tim DV & Opalp\nTim DV menjalin kerjasama jangka panjang 5 tahun dengan Opalp sejak tahun 2021.\nDeposit awal sebesar 5.000.000 USDT untuk menjamin keamanan dana para anggota.\nData perusahaan dan informasi pribadi dapat diverifikasi secara resmi.\nKerjasama bertujuan untuk pengembangan proyek jangka panjang.\n\nKonsep Kerjasama Strategis\nMengadopsi strategi trading dari Mark Davis dengan sinyal analisa yang dikaji secara akurat.\nInvestor mengikuti sinyal dari Mark untuk mendapatkan profit stabil dan terarah.\nJika ada kerugian akibat sinyal, kerugian tersebut akan dikompensasi penuh oleh DV Team.\n\nJaminan & Tanggung Jawab\nKerugian akibat sinyal Mark Davis dijamin oleh: \nDoug Leene sebagai penjamin\nSequoia Capital Operations LLC sebagai perusahaan penjamin\nTujuan utama: menciptakan lingkungan investasi yang aman, positif, dan profesional.\n\nKesimpulan\nTim DV adalah tim investasi terpercaya yang:\nBekerja sama langsung dengan bursa legal Opalp Exchanges\nMenjamin keamanan dana dan transparansi penuh\nMemiliki sistem kompensasi terhadap risiko investasi.' // (Narasi lengkap)
             },
             { 
-                question: '17. Sequoia Capital menjadi penjamin. Gimana cara verifikasi sertifikat tersebut?', 
+                question: '2. Sequoia Capital menjadi penjamin. Gimana cara verifikasi sertifikat tersebut?', 
                 audioPath: 'audio/jawaban17.mp3',
-                narrative: 'Memang benar, kalau sebuah perusahaan besar seperti Sequoia Capital Operations...' // (Narasi lengkap)
+                narrative: 'Memang benar, kalau sebuah perusahaan besar seperti Sequoia Capital Operations masuk ke ranah investasi publik di Opalp, pasti ada press release, berita mainstream, bahkan SEC filing.\n\nTapi yang tercantum di kontrak ini bukanlah investasi publik besar yang harus diumumkan, melainkan bentuk jaminan kontrak internal.\n\nArtinya, Sequoia Capital Operations (atau entitas terkait) berperan sebagai guarantor terbatas untuk hubungan bisnis tertentu, dan itu sifatnya B2B (business to business), bukan konsumsi publik.\n\nSama seperti perusahaan lokal di Indonesia yang punya kontrak dijamin oleh Bank Mandiri atau kantor notaris besar.\nKontrak itu sah dan legal, tapi tidak otomatis muncul di Kompas atau CNBC, karena bukan informasi publik.\nYang tau detailnya ya hanya pihak-pihak yang terlibat.\nKarena itu, wajar kalau tidak ada berita eksternal.\n\nYang bisa kita pegang sebagai bukti nyata adalah:\n- sistem Opalp berjalan konsisten,\n- pembayaran cair sesuai jadwal,\n- kontrak diperbarui tiap tahun, artinya hubungan kerja sama terus dijaga.\n\nJadi ukuran validitasnya bukan pada media mainstream, melainkan pada hasil dan konsistensi sistem yang kita rasakan langsung.' // (Narasi lengkap)
             },
             { 
-                question: '21. Bagaimana dengan legalitas OPALP dan DVTEAM..?', 
+                question: '3. Bagaimana dengan legalitas OPALP dan DVTEAM..?', 
                 audioPath: 'audio/jawaban21.mp3',
-                narrative: 'Ini adalah pertanyaan yang sangat penting, dan kamu sudah menanyakannya dengan tepat...' // (Narasi lengkap)
+                narrative: 'Ini adalah pertanyaan yang sangat penting, dan kamu sudah menanyakannya dengan tepat.\n\nHampir setiap anggota baru ketika mengundang orang lain pasti akan mendapat pertanyaan soal legalitas, jadi kamu sendiri juga harus punya jawaban yang jelas.\n\nOpalp berkantor pusat di Denver, Colorado, Amerika Serikat, dan informasi registrasinya bisa dicek secara terbuka di situs resmi pemerintah AS.\n\nOpalp telah memperoleh lisensi MSB (Money Services Business) yang dikeluarkan oleh Departemen Keuangan AS (FinCEN).\nIni adalah izin dasar sekaligus paling penting yang memastikan platform ini legal untuk menjalankan bisnis terkait aset kripto.\n\nSelain itu, Opalp juga mematuhi aturan internasional seperti AML (Anti Money Laundering / Anti Pencucian Uang) dan KYC (Know Your Customer / Verifikasi Identitas) untuk menjamin semua aliran dana pengguna tetap aman dan transparan.\n\nLisensi dan dokumen kepatuhan Opalp nyata dan bisa diverifikasi. Semua perputaran dana dilakukan secara terbuka dan bisa dicek sendiri.\n\nCek lisensi keuangan di situs resmi pemerintah AS (MSB):\nhttps://www.fincen.gov/msb-state-selector\nNomor registrasi MSB Opalp: 31000292053165.' // (Narasi lengkap)
             },
             { 
-                question: '22. Apakah ada kemungkinan OPALP itu scam..?', 
+                question: '4. Apakah ada kemungkinan OPALP itu scam..?', 
                 audioPath: 'audio/jawaban22.mp3',
                 narrative: 'Jawabannya bukan dari janji, tapi dari sistem dan struktur yang kami bangun di DV TEAM...' // (Narasi lengkap)
             },
             { 
-                question: '23. Apakah legalitas OPALP ini bisa dipercaya dan dipertanggungjawabkan?', 
+                question: '5. Apakah legalitas OPALP ini bisa dipercaya dan dipertanggungjawabkan?', 
                 audioPath: 'audio/jawaban23.mp3',
                 narrative: 'Opalp Meningkatkan Sistem Kepatuhan Global, DV TEAM Bersama-sama Memasuki Tahap Baru Kepercayaan Internasional...' // (Narasi lengkap)
             },
             { 
-                question: '24. Apa fungsi legalitas tersebut buat anggota DV-TEAM..?', 
+                question: '6. Apa fungsi legalitas tersebut buat anggota DV-TEAM..?', 
                 audioPath: 'audio/jawaban24.mp3',
                 narrative: 'Banyak anggota sudah mengetahui bahwa jauh sebelumnya Opalp di bawah pengawasan ketat FinCEN...' // (Narasi lengkap)
             },
             { 
-                question: '25. Prof, apakah uang saya aman jika ditempatkan di platform?', 
+                question: '7. Prof, apakah uang saya aman jika ditempatkan di platform?', 
                 audioPath: 'audio/jawaban25.mp3',
                 narrative: 'Kekhawatiran ini sangat wajar.\nDi dunia internet sekarang, sulit membedakan mana yang benar...' // (Narasi lengkap)
             },
             { 
-                question: '30. Jika pengguna Opalp sudah jutaan di Indonesia, bagaimana DV Team menyikapinya?', 
+                question: '8. Jika pengguna Opalp sudah jutaan di Indonesia, bagaimana DV Team menyikapinya?', 
                 audioPath: 'audio/jawaban30.mp3',
                 narrative: 'Pengguna Opalp di indonesia belum jutaan pengguna.\n\nPerlu diketahui bahwa tim OPALP di Indonesia juga tidak diam saja...' // (Narasi lengkap)
             }
