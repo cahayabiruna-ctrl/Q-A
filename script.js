@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
             { 
                 question: '4. Selamat malam Profesor, apakah waktu sinyal perdagangan bisa diubah?', 
                 audioPath: 'audio/jawaban10.mp3',
-                narrative: 'Sinyal pertama adalah pukul 12:10, sinyal kedua adalah pukul 20:10, sinyal tambahan ketiga khusus ketua tim adalah pukul 17:10, dan sinyal tambahan keempat untuk seluruh anggota adalah pukul 15:10.\n\nKeempat waktu ini tidak dapat diubah sembarangan, karena telah ditentukan berdasarkan analisis big data, ritme pasar global, dan pengalaman investasi secara menyeluruh, dengan tujuan untuk menjamin akurasi dan tingkat keberhasilan sinyal.'' // (Narasi lengkap)
+                narrative: 'Sinyal pertama adalah pukul 12:10, sinyal kedua adalah pukul 20:10, sinyal tambahan ketiga khusus ketua tim adalah pukul 17:10, dan sinyal tambahan keempat untuk seluruh anggota adalah pukul 15:10.\n\nKeempat waktu ini tidak dapat diubah sembarangan, karena telah ditentukan berdasarkan analisis big data, ritme pasar global, dan pengalaman investasi secara menyeluruh, dengan tujuan untuk menjamin akurasi dan tingkat keberhasilan sinyal.' // (Narasi lengkap)
             },
             { 
                 question: '5. Jika pasar kripto turun drastis, apakah sistem DV TEAM tetap stabil?', 
@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
             { 
                 question: '3. Bagaimana jika member sakit atau meninggal dunia, apakah bisa diwariskan?', 
                 audioPath: 'audio/jawaban9.mp3',
-                narrative: ''Masalah ini sangat penting, kita semua tahu bahwa kematian tidak dapat diprediksi, tetapi hal ini dapat direncanakan.\n\nSebagai seorang mentor dan ayah, saran pribadi saya adalah: siapkan sebuah "dokumen akses pribadi" yang dapat dibuka oleh istri atau anak Anda ketika diperlukan.\n\nIsi dokumen tersebut bisa mencakup: alamat email dan kata sandi, login aplikasi OPALP, PIN keamanan, petunjuk tentang cara menarik saldo/menjual aset, serta kontak dari asisten DV TEAM yang bisa memberikan bantuan.\n\nJika anggota keluarga resmi membutuhkan, DV TEAM siap membantu proses pemulihan akses kapan saja.\n\nKami tidak akan membiarkan usaha seumur hidup seseorang sia-sia karena masalah teknis.' // (Narasi lengkap)
+                narrative: 'Masalah ini sangat penting, kita semua tahu bahwa kematian tidak dapat diprediksi, tetapi hal ini dapat direncanakan.\n\nSebagai seorang mentor dan ayah, saran pribadi saya adalah: siapkan sebuah "dokumen akses pribadi" yang dapat dibuka oleh istri atau anak Anda ketika diperlukan.\n\nIsi dokumen tersebut bisa mencakup: alamat email dan kata sandi, login aplikasi OPALP, PIN keamanan, petunjuk tentang cara menarik saldo/menjual aset, serta kontak dari asisten DV TEAM yang bisa memberikan bantuan.\n\nJika anggota keluarga resmi membutuhkan, DV TEAM siap membantu proses pemulihan akses kapan saja.\n\nKami tidak akan membiarkan usaha seumur hidup seseorang sia-sia karena masalah teknis.' // (Narasi lengkap)
             },
             { 
                 question: '4. Kenapa domain opalp.com di Whois hanya sampai 2026?', 
