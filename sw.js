@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dvnp-qa-v8'; // <-- VERSI BARU (v8)
+const CACHE_NAME = 'dvnp-qa-v9'; // <-- VERSI BARU (v8)
 const urlsToCache = [
     './',
     './index.html',
